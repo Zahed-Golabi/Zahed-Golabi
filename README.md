@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zahed Golabi</h1>
-<h3 align="center">A passionate Machine Learning and Deep Learning Developer</h3>
+<h3 align="center">A passionate Machine Learning Researcher</h3>
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 💬 Ask me about **ML, DL, AI, GANs, Bioinformatics, Computer Vision**
 
 - 📫 How to reach me **golabizahed@gmail.com**
 
