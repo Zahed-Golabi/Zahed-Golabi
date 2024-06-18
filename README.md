@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahed Golabi</h1>
-<h3 align="center">A passionate Machine Learning Researcher</h3>
+<h3 align="center">A passionate Social Media Researcher</h3>
 
 - 🔭 I’m currently working on **Data Science Projects**
 
